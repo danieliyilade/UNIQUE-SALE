@@ -11,18 +11,29 @@ An end-to-end business solution was delivered to the business. Here are the step
 
 # AIMS AND OBJECTVES
 ▪ To develop a business intelligence solution to track sales performance.
+
 ▪ To derive sales insight to help the organization for the coming years.
+
 ▪ Sales performance across Regions and countries of operation.
+
 ▪ To show top performing customers in the organization.
+
 ▪ To show top Product brand selling.
+
 ▪ To show the top occupation buying products.
 
 # BUSINESS INSIGHT
 
 ▪ Over the year, there has been over a 50% increase in the company's revenue and profit.
+
 ▪ The unique store made a total revenue of $22 million, with a 12% profit from the revenue.
+
 ▪ In the male gender, slightly 52% made purchases of goods over the female. 
+
 ▪ Lagos State Region made the highest revenue and profit for the company.
+
 ▪ The adult group (32–46) made the most, with about 40% of purchases of goods compared to the other age groups.
+
 ▪ The phone product had the highest revenue, sales, and profit respectively.
+
 ▪ Salesperson Remota made the highest sales of goods and profit for the business.
